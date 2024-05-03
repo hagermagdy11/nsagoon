@@ -1,0 +1,30 @@
+@media (max-width: 700px) {
+  .logo {
+    width: 70vw;
+  }
+}
+.logo {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  background-color: rgba(255, 255, 255, 0.103);
+}
+
+.icon {
+  margin: auto;
+  display: block;
+  fill: #37a;
+  width: 70px;
+  height: 70px;
+}
+
+.arabic {
+  text-align: right;
+}
+
+body {
+  font-family: "Readex Pro";
+}
+.carousel-text {
+  text-align: center;
+  margin-top: 50px;
+}
